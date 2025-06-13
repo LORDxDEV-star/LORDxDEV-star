@@ -28,7 +28,7 @@
   <a href="https://www.instagram.com/1lordxdev1/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.youtube.com/channel/UCH_JJmX_ruacZaf0gdWQ6jQ" target="_blank">
+  <a href="https://youtube.com/@devtopibaaz?si=WOOMtE-W57v6yyRZ" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
